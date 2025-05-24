@@ -1,0 +1,37 @@
+body {
+    background-color: #d8e2f2;
+    font-family: sans-serif;
+}
+header {
+    background-color: #aaadad;
+}
+header a {
+    color: white;
+}
+h1 {
+    text-align: center;
+    
+}
+h2 {
+    font-size: 23px;
+    color: #585a5c;
+}
+h3 {
+    color: #47505e;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: 250px;
+    display: flex;
+    margin: 0 auto;
+
+}
+p {
+    font-size: 20px;
+}
+.ing {
+    background-color:  #e6eef0;
+    border-radius: 15px;
+}
